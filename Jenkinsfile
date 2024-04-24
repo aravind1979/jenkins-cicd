@@ -8,3 +8,4 @@ pipeline {
                 git 'https://github.com/aravind1979/jenkins-cicd.git'
             }
         }
+    }
